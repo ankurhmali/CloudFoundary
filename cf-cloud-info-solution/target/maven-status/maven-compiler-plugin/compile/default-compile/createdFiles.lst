@@ -1,0 +1,6 @@
+io\pivotal\cf\web\InfoController.class
+io\pivotal\cf\Application.class
+io\pivotal\cf\WebApplication.class
+io\pivotal\cf\ConfigDefault.class
+io\pivotal\cf\ConfigCloud.class
+io\pivotal\cf\Config.class
